@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/school_tracker/static/css/main.290d273a.chunk.css",
-    "main.js": "/school_tracker/static/js/main.5df49383.chunk.js",
-    "main.js.map": "/school_tracker/static/js/main.5df49383.chunk.js.map",
+    "main.css": "/school_tracker/static/css/main.96cd8ee5.chunk.css",
+    "main.js": "/school_tracker/static/js/main.a4c710f7.chunk.js",
+    "main.js.map": "/school_tracker/static/js/main.a4c710f7.chunk.js.map",
     "runtime-main.js": "/school_tracker/static/js/runtime-main.ced1557a.js",
     "runtime-main.js.map": "/school_tracker/static/js/runtime-main.ced1557a.js.map",
     "static/css/2.15bd67fe.chunk.css": "/school_tracker/static/css/2.15bd67fe.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.64a06c6b.chunk.js.map": "/school_tracker/static/js/2.64a06c6b.chunk.js.map",
     "index.html": "/school_tracker/index.html",
     "static/css/2.15bd67fe.chunk.css.map": "/school_tracker/static/css/2.15bd67fe.chunk.css.map",
-    "static/css/main.290d273a.chunk.css.map": "/school_tracker/static/css/main.290d273a.chunk.css.map",
+    "static/css/main.96cd8ee5.chunk.css.map": "/school_tracker/static/css/main.96cd8ee5.chunk.css.map",
     "static/js/2.64a06c6b.chunk.js.LICENSE.txt": "/school_tracker/static/js/2.64a06c6b.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/school_tracker/static/media/outline-icons.ddae9b1b.woff"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.ced1557a.js",
     "static/css/2.15bd67fe.chunk.css",
     "static/js/2.64a06c6b.chunk.js",
-    "static/css/main.290d273a.chunk.css",
-    "static/js/main.5df49383.chunk.js"
+    "static/css/main.96cd8ee5.chunk.css",
+    "static/js/main.a4c710f7.chunk.js"
   ]
 }
