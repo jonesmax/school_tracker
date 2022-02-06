@@ -1,7 +1,7 @@
 
 #contain{
     width:100%;
-    height:100vh;
+    /* height:100vh; */
     background-color: rgba(24,32,57,255);
     font-family: 'Share Tech', sans-serif;
 }
@@ -10,15 +10,79 @@
     padding:2vw;
     width:40vw;
     min-width:300px;
+    background-color: rgb(33, 43, 78);
+    box-shadow: 5px 5px rgb(54, 63, 99, 0.788);
+}
+h3{
+    font-family:'monospace';
+}
+#cardMain{
+    width:100%;
+    /*height:40vh;*/
+    padding:1.5vh;
+    text-align: center;
+    background-color: rgb(33,43,78);
+    box-shadow: 5px 5px rgba(54, 63, 99, 0.788);
+    color:white;
+    margin-bottom: 3vh;
+    /* max-height:83vh; */
+
+   
+}
+#cardMainSmall{
+    width:100%;
+    padding:1.5vh;
+    text-align: center;
+    background-color: rgb(33,43,78);
+    box-shadow: 5px 5px rgba(54, 63, 99, 0.788);
+    color:white;
+    margin-bottom: 3vh;
+
+
+   
+}
+#thc{
+    text-align: center;
+}
+#tbody{
+    text-align: center;
+    font-size:13px;
+}
+th {
+  background: white;
+  position: sticky;
+  top: 0;
+  padding: 0px;
+  margin:0px;
+}
+#content{
     position: absolute;
     left: 50%;
     top: 40%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    background-color: rgba(33,43,78,255);
-    box-shadow: 5px 5px rgba(54, 63, 99, 0.788);
 }
 ul li a {
     text-decoration: none;
   
 }
+
+@media only screen and (min-width: 700px) {
+    #card{
+        max-width:40vh;
+    }
+    #cardMain{
+        min-width:50vh;
+    }
+    
+  }
+@media only screen and (max-width: 500px) {
+    #cardMain{
+        width:88vw;
+        max-width: 100%;
+    }
+    
+}
+::-webkit-scrollbar {
+    display: none;
+  }

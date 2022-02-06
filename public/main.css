@@ -1,0 +1,14 @@
+.sliding-background{
+    background-color:rgba(24,32,57,255)!important;
+    background-image: url('%PUBLIC_URL%/images/back.png') !important;
+    background-position: 0px 0px;
+    background-repeat: repeat;
+    animation: animatedBackground 45s linear infinite;
+    width:100%;
+    height:100%;
+    
+}
+@keyframes animatedBackground {
+    from { background-position: 0 0; }
+    to { background-position: 100% -40%; }
+}
